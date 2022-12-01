@@ -62,5 +62,5 @@ Style guidelines: PEP8
 
 # Authors
 
-* Adrien MILLOT | '2701@holbertonschool.com'
-* Mamadou Cherif BA | '2744@holbertonschool.com'
+* Akorede Emiola
+* Tracy Okorie
